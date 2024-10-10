@@ -91,7 +91,6 @@ fn empty_wallet() {}
 
 - borsh = "0.10.3"
 - solana-idlgen = { git = "https://github.com/deanmlittle/solana-idlgen.git" }
--
 
 ### Functions
 
@@ -103,5 +102,4 @@ fn empty_wallet() {}
 fn completion_of_turbin3_program() {} 
 ```
 
--
 Transaction [hash](https://explorer.solana.com/tx/6j7v1gr1Hmg19syp2Vng7xDSWtriQMxwtwYabPhMtGMEMLRTz4WkRdvJZsZ6uA5QHYntv8okGdngbAWet72XVdn?cluster=devnet)
